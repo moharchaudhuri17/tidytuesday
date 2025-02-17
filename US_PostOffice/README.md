@@ -4,7 +4,7 @@
 A data visualization project exploring the evolution of United States Post Offices over two centuries, revealing the fascinating story of American expansion and communication infrastructure development.
 
 <p align="center">
-  <img src="/US_PostOffice/animated.gif" width="60%">
+  <img src="/US_PostOffice/post_office_evolution.gif" width="60%">
 </p>
 
 
