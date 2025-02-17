@@ -1,7 +1,11 @@
-# US Post Offices Historical Visualization (1764-2000)
+<h1 align="center"> US Post Offices Historical Visualization (1764-2003) </h1>
+
 
 A data visualization project exploring the evolution of United States Post Offices over two centuries, revealing the fascinating story of American expansion and communication infrastructure development.
 
+<p align="center">
+  <img src="/US_PostOffice/animated.gif" width="60%">
+</p>
 
 
 ## Overview
