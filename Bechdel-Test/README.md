@@ -1,4 +1,4 @@
-# Bechdel Test Visualization
+ 
 
 ![Bechdel Test Visualization](bechdel-test.png)
 
